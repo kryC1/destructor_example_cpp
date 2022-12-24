@@ -1,0 +1,6 @@
+temp temp 0 0 0
+Fire Kamil 350 6000.01 1
+Water Yusuf 323 6532.25 0
+Ice Mevlut 900 9562.00 0
+Earth Ali 1050 4563.14 1
+Fire Tayfur 120 7520 0
